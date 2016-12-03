@@ -2,7 +2,7 @@
 
 [![Circle CI](https://circleci.com/gh/sjourdan/hadolint-docker.svg?style=shield)](https://circleci.com/gh/sjourdan/hadolint-docker)
 
-This container is smaller than [the original one(https://github.com/lukasmartinelli/hadolint) from Lukas Martinelli (96MB vs 1.7GB).
+This container is smaller than [the original one](https://github.com/lukasmartinelli/hadolint) from Lukas Martinelli (96MB vs 1.7GB).
 
 It's based on debian:jessie-slim and does the minimum.
 
