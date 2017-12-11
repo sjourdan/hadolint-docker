@@ -1,6 +1,11 @@
-# Hadolint (Docker Container)
+# Hadolint (Docker Container) [DEPRECATED]
 
 [![Circle CI](https://circleci.com/gh/sjourdan/hadolint-docker.svg?style=shield)](https://circleci.com/gh/sjourdan/hadolint-docker)
+
+2017/12: times have changed and the author now provides a very nice Docker image: https://github.com/hadolint/hadolint
+
+
+
 
 This container is smaller than [the original one](https://github.com/lukasmartinelli/hadolint) from Lukas Martinelli (96MB vs 1.7GB).
 
